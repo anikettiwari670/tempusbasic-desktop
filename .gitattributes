@@ -1,0 +1,9 @@
+# See https://github.com/github/linguist
+# Configuration for git attributes
+*.yml linguist-detectable=false
+*.js linguist-detectable
+*.htm linguist-vendored
+*.bat text eol=crlf
+*.html linguist-vendored
+
+# eof 9e17149f
