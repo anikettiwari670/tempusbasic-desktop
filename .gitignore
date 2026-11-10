@@ -1,0 +1,8 @@
+.next/
+.DS_Store
+.cache/
+node_modules/
+dist/
+coverage/
+*.tgz
+_site/
